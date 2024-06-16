@@ -38,6 +38,3 @@ Welcome to the Whiteboard Web App repository! This application offers a versatil
 ## Acknowledgments
 * The project uses the Poppins font from Google Fonts.
 * Icons are sourced from various SVG resources.
-
-## Thank you for using the Whiteboard Web App! 
-## I hope you enjoy creating your digital drawings.
